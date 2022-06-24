@@ -14,4 +14,4 @@ This document lays out the requirements for becoming a member of rainbow.sh.
 
     \*\* You **can still credit** yourself as the author of that project.
 
-1. You **have to agree** to not break any rules specified in [member rules](https://github.com/rainbow-sh/membership/docs/member-rules.md) and if you do so, your membership will be revoked.
+1. You **have to agree** to not break any rules specified in [member rules](https://github.com/rainbow-sh/membership/blob/main/docs/member-rules.md) and if you do so, your membership will be revoked.

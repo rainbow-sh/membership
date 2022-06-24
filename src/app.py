@@ -30,7 +30,7 @@ def _welcome_screen() -> None:
 
 {_bold(_center_text("Oh, and also, before you start!"))}
 {_center_text("Please read our membership requirements if you do get accepted.")}
-{_center_text("They are available at: https://github.com/rainbow-sh/membership/docs/membership-requirements.md")}
+{_center_text("They are available at: https://github.com/rainbow-sh/membership/blob/main/docs/membership-requirements.md")}
 
 {_bold(_center_text("If everything sounds good, we can continue to the first question!"))}""", end="\n\n")
 
