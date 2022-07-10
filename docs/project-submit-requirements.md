@@ -12,9 +12,11 @@ This document lays out the requirements for transferring/publishing a project to
 
 1. Your project **has to have** a [FOSS license](https://www.gnu.org/licenses/license-list.html) (we recommend using MIT or GPL-3.0 licenses).
 
-1. You **have to add** `Made by rainbow.sh (https://github.com/rainbow-sh) and licensed under [YOUR PROJECT'S LICENSE]` to your project's man/help page.
+1. You **have to add** `Made by rainbow.sh (https://github.com/rainbow-sh) and licensed under [YOUR PROJECT'S LICENSE]` to your project's man/help/about page.
 
-    \* You can still credit yourself as an author.
+    \* If your project doesn't have a help/man/about page, this requirement **does not** apply.
+
+    \** You can still credit yourself as an author.
 
 1. Your project's repository **has to have** a "rainbow.sh badge" in it's README.md
 
